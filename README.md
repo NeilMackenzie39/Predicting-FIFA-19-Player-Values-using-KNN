@@ -1,6 +1,9 @@
 # Predicting-FIFA-19-Player-Values-using-KNN
 Using KNN algorithm to predict value of players in FIFA 19 based on top 10 indicative attributes
 
+## IMPORTANT
+The identifiacation of the best attributes and the implementation of the KNN algorithm in this code was my first attempt. Both the identification and implemenation have been greatly improved in [this](https://github.com/NeilMackenzie39/Comparative-Study-of-KNN-vs-Linear-Regression) project on the comparison of KNN and Linear Regression using the same dataset.
+
 ## Getting Started
 This repository contains a jupyter notebook of the code to execute this project as well as the data.csv file required to run the code
 
